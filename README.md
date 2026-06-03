@@ -4,6 +4,11 @@
 
 This project analyzes customer churn behavior in a European bank using SQL and Power BI. The objective is to identify key factors influencing customer attrition, understand customer demographics, and provide actionable insights to improve customer retention and business performance.
 
+## Dtaset 
+
+This is the dataset link which was given to me by unified mentor for this project
+Dataset Link:- [Link]([url](https://drive.google.com/file/d/1MvcGwN7b-LIfPZdiGNeKykfooffupAf_/view?usp=sharing))
+
 ## Problem Statement
 
 Customer churn is a critical challenge for banks as losing customers directly impacts revenue and growth. This project aims to analyze customer data to identify patterns and factors associated with churn, enabling data-driven retention strategies.
