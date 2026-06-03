@@ -188,8 +188,7 @@ FROM european_bank
 GROUP BY Gender, Geography
 ORDER BY Churn_Rate DESC;
 
-## Dashboard Image:-
-The image that i have pasted is being done with Power BI
+
 
 
 
