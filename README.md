@@ -95,6 +95,10 @@ Created an interactive dashboard featuring:
 * Geographic Performance Analysis
 * Customer Behavior Insights
 * Executive Summary Visualizations
+* Daashboard Image
+
+  <img width="791" height="438" alt="image" src="https://github.com/user-attachments/assets/59ef40f2-8551-47a1-b657-4d519c39aefd" />
+
 
 ## Project Outcomes
 
@@ -107,3 +111,16 @@ Elbich Akhatar Khan
 Data Analyst | SQL | Power BI | Excel
 
 GitHub: https://github.com/Elbich143
+
+
+
+
+
+
+
+
+
+
+
+
+
