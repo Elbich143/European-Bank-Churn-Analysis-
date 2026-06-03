@@ -7,7 +7,7 @@ This project analyzes customer churn behavior in a European bank using SQL and P
 ## Dtaset 
 
 This is the dataset link which was given to me by unified mentor for this project
-Dataset Link:- [Link]([url](https://drive.google.com/file/d/1MvcGwN7b-LIfPZdiGNeKykfooffupAf_/view?usp=sharing))
+Dataset Link:- https://drive.google.com/file/d/1MvcGwN7b-LIfPZdiGNeKykfooffupAf_/view?usp=sharing
 
 ## Problem Statement
 
